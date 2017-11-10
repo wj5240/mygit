@@ -1,1 +1,2 @@
-## git learn
+# mygit
+learning and using git
